@@ -7,13 +7,13 @@ modes_map = {
 }
 
 def fun():
-    pass
+    print("Running fun setup routine")
 
 def study():
-    pass
+    print("Running study setup routine")
 
 def work():
-    pass
+    print("Running work setup routine")
 
 name_func_map = {
     "fun"  : fun,
